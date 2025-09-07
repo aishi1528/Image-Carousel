@@ -4,7 +4,7 @@ A simple, responsive image carousel built with HTML, CSS, and JavaScript. It all
 ---
 
 ## 💻 Live Demo
-👉 [View Demo]()
+👉 [View Demo](https://aishi1528.github.io/Image-Carousel/)
 
 ---
 
