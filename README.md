@@ -9,4 +9,4 @@ A simple, responsive image carousel built with HTML, CSS, and JavaScript. It all
 ---
 
 ## 📸 Demo
-![Carousel Demo]()
+![Carousel Demo](https://github.com/aishi1528/Image-Carousel/blob/main/demo.gif)
